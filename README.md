@@ -1,4 +1,4 @@
-## Hii! me chamo Thiago Jordão, sou estudade de engenharia de computação e apaixonado por tecnologia.
+## Hii! me chamo Thiago Jordão, sou estudade de engenharia da computação e apaixonado por tecnologia.
 <div align="center-left">
   <a href="https://github.com/thiagojordao98">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagojordao98&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
