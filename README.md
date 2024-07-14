@@ -4,7 +4,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 
   # 💫 About Me:
-  Hello! I am an experienced Full Stack Web Developer with a diverse skill set that encompasses the latest technologies and frameworks. With a strong background in JavaScript,   Node.js, React, Python, and Django, I possess the expertise to develop end-to-end web applications with efficiency and precision.</br>
+  Hello! I am an experienced Full Stack Software Engineer with a diverse skill set that encompasses the latest technologies and frameworks. With a strong background in JavaScript,   Node.js, React, Python, and Django, I possess the expertise to develop end-to-end web applications with efficiency and precision.</br>
 
   [![wakatime](https://wakatime.com/badge/user/cb75f43e-ca8f-4ae7-a236-99bb7dd0e351.svg)](https://wakatime.com/@thiagojordao)
   ![](https://komarev.com/ghpvc/?username=thiagojordao98&color=447ff7&label=Visitor+count)
